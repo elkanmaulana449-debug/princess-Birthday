@@ -29,20 +29,19 @@ export default function VideoSection() {
                     className="text-center"
                 >
                     <p className="text-xs uppercase tracking-[0.5em] text-rose-300">
-                        A Little Piece of Us
+                        Cuplikan Perjalanan Kita
                     </p>
 
                     <h2 className="mt-5 font-serif text-5xl md:text-7xl">
-                        Moments Worth
+                        Moment Bahagia
                         <br />
                         <span className="text-rose-300">
-                            Remembering.
+                            Kita.
                         </span>
                     </h2>
 
                     <p className="mx-auto mt-6 max-w-xl text-sm leading-7 text-gray-500 md:text-base">
-                        Some memories are better remembered than explained.
-                        So here's a little piece of our story.
+                        Beberapa kenangan yang meningat kan aku beberapa perjalanan senang dan sedih kita.
                     </p>
                 </motion.div>
 
